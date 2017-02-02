@@ -1,0 +1,8 @@
+1. ps
+This will list the process and it's PID's. The PID's are useful when checking
+log files.
+
+2. echo $$
+displays the current parent process.
+
+
