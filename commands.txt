@@ -5,4 +5,8 @@ log files.
 2. echo $$
 displays the current parent process.
 
+3. run the argvdemo.txt along with two arguments, it should print the args 
+passed.
+   run the them using "sh filename.txt arg1 arg2 .."
+
 

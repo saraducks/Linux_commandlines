@@ -1,0 +1,4 @@
+echo "first argument"
+echo $1
+echo "second argument"
+echo $2
