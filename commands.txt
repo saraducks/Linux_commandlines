@@ -1,6 +1,9 @@
 1. ps
 This will list the process and it's PID's. The PID's are useful when checking
 log files.
+   ps -f                          //will display the process with parent PPID.
+   echo $$
+gives the current process PID.
 
 2. echo $$
 displays the current parent process.

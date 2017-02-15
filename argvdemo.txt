@@ -1,4 +1,7 @@
+script="./hell"
 echo "first argument"
 echo $1
 echo "second argument"
 echo $2
+set v = [sara jadc ajbf]
+echo $#v
